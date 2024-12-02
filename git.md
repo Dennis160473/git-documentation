@@ -1,5 +1,5 @@
 # <b><i>Definition "Git"</i></b>
 
-<font color="red">Also, was ist Git denn nun?</color>
+<font color="red">Also, was ist Git denn nun?</font>
 <br></br>
 Dies ist ein wichtiger Teil, den es zu beachten gilt, denn wenn du verstehst, was Git und das grundlegenden Konzept seiner Arbeitsweise ist, dann wird die effektive Nutzung von Git für dich wahrscheinlich viel einfacher sein. Wenn du Git erlernst, solltest du versuchen, deinen Kopf von den Dingen zu befreien, die du über andere VCSs, wie CVS, Subversion oder Perforce, weist. Das wird dir helfen, unangenehme Missverständnisse bei der Verwendung des Tools zu vermeiden. Auch wenn die Benutzeroberfläche von Git den VCSs sehr ähnlich ist, speichert und betrachtet Git Informationen auf eine ganz andere Weise, und das Verständnis dieser Unterschiede hilft dir Unklarheiten bei der Verwendung zu vermeiden.
